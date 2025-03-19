@@ -1,0 +1,15 @@
+{
+"contact": "Kilgorio",
+"templates": [
+{
+"name": "Scarlet",
+"sources": [
+"https://raw.githubusercontent.com/Kilgorio/Test/refs/heads/main/Untitled.png"
+],
+"x": 0,
+"y": 0
+}
+],
+"whitelist": [],
+"blacklist": []
+}
