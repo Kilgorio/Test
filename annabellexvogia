@@ -1,0 +1,15 @@
+{
+"contact": "Kilgorio",
+"templates": [
+{
+"name": "Annabelle X Vogia",
+"sources": [
+"https://raw.githubusercontent.com/Kilgorio/Test/refs/heads/main/mareplace-annabellexvogia.png"
+],
+"x": 0,
+"y": 0
+}
+],
+"whitelist": [],
+"blacklist": []
+}
